@@ -33,9 +33,7 @@ $ git clone https://github.com/AnirudhAgnihotri2902/flexmoney_assessment.git
 ```bash
 $ npm i
 ```
-3. Open `.env` and edit config, if it's necessary.(Put your atlas uri in backend)
-
-4. Run example:
+3. Run application:
 ```bash
 npm run dev
 ```
