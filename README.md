@@ -35,5 +35,5 @@ $ npm i
 ```
 3. Run application:
 ```bash
-npm run dev
+$ npm run dev
 ```
